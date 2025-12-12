@@ -8,7 +8,7 @@ body {
 }
 
 #sky {
-    background: linear-gradient(lightgray, white);
+    background: rgb(237, 248, 255);
     height: 78%;
     width: 100%;
     position: absolute;
@@ -20,4 +20,14 @@ body {
     position: absolute;
     top: 10px;
     left: 25px;
+}
+
+#square {
+    background: white;
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 140px;
+    left: 20%;
+    border: 10px solid gray;
 }

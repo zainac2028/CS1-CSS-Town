@@ -30,4 +30,13 @@ body {
     top: 140px;
     left: 20%;
     border: 10px solid gray;
+    z-index: 10;
+}
+
+#cat {
+    font-size: 85px;
+    position: absolute;
+    z-index: 20;
+    top: 75px;
+    
 }
